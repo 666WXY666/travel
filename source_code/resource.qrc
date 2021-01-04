@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="database.txt">resource/database.txt</file>
+        <file alias="exe.ico">resource/exe.ico</file>
+        <file>resource/arrive.png</file>
+        <file>resource/car.png</file>
+        <file>resource/map.png</file>
+        <file>resource/pause.png</file>
+        <file>resource/plane.png</file>
+        <file>resource/train.png</file>
+    </qresource>
+</RCC>
